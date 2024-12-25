@@ -21,7 +21,9 @@ Arduino Mikrodenetleyicisi: Tüm bileşenlerin kontrol edilmesini sağlar.
 
 3 BOYUTLU DEVRE 
 
-![image](https://github.com/user-attachments/assets/431549ae-302a-4fe1-92a3-8c227293ee9f)
+![image](https://github.com/user-attachments/assets/1aa7d4a8-93a4-4caf-9ca6-e3da18bb6693)
+
+
 
 
 
